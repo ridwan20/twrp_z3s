@@ -11,7 +11,7 @@
 # limitations under the License.
 #
 
-PLATFORM_VERSION := 11
+PLATFORM_VERSION := 12
 
 DEVICE_PATH := device/samsung/z3s
 
